@@ -1,0 +1,493 @@
+&File>*.*<文件>*.*<菜单-文件>*.*<main
+New &repository…>*.*<新建存储库>*.*<菜单-文件>*.*<main
+Add &local repository…>*.*<添加本地存储库>*.*<菜单-文件>*.*<main
+Clo&ne repository…>*.*<克隆存储库>*.*<菜单-文件>*.*<main
+&Options…>*.*<选项>*.*<菜单-文件>*.*<main
+E&xit>*.*<退出>*.*<菜单-文件>*.*<main
+&Edit>*.*<编辑>*.*<菜单-编辑>*.*<main
+&Undo>*.*<撤消>*.*<菜单-编辑>*.*<main
+&Redo>*.*<恢复>*.*<菜单-编辑>*.*<main
+Cu&t>*.*<剪切>*.*<菜单-编辑>*.*<main
+&Copy>*.*<复制>*.*<菜单-编辑>*.*<main
+&Paste>*.*<粘贴>*.*<菜单-编辑>*.*<main
+Select &all>*.*<全选>*.*<菜单-编辑>*.*<main
+&Find>*.*<查找>*.*<菜单-编辑>*.*<main
+&View">*.*<视图">*.*<菜单-视图>*.*<main
+&Changes>*.*<更改>*.*<菜单-视图>*.*<main
+&History>*.*<历史>*.*<菜单-视图>*.*<main
+Repository &list>*.*<存储库列表>*.*<菜单-视图>*.*<main
+&Branches list>*.*<分支列表>*.*<菜单-视图>*.*<main
+Go to &Summary>*.*<填写摘要>*.*<菜单-视图>*.*<main
+H&ide stashed changes>*.*<隐藏暂存更改>*.*<菜单-视图>*.*<main
+Sho&w stashed changes>*.*<显示暂存更改>*.*<菜单-视图>*.*<main
+Toggle &full screen>*.*<全屏>*.*<菜单-视图>*.*<main
+Reset zoom>*.*<重置缩放>*.*<菜单-视图>*.*<main
+Zoom in>*.*<放大>*.*<菜单-视图>*.*<main
+Zoom out>*.*<缩小>*.*<菜单-视图>*.*<main
+&Reload>*.*<重新加载>*.*<菜单-视图>*.*<main
+&Toggle developer tools>*.*<开发者工具>*.*<菜单-视图>*.*<main
+&Repository>*.*<存储库>*.*<菜单-仓库>*.*<main
+Force P&ush…>*.*<强制推送…>*.*<菜单-仓库>*.*<main
+Force P&ush>*.*<强制推送>*.*<菜单-仓库>*.*<main
+P&ush>*.*<推送>*.*<菜单-仓库>*.*<main
+Pu&ll>*.*<拉取>*.*<菜单-仓库>*.*<main
+&Remove…>*.*<删除>*.*<菜单-仓库>*.*<main
+&View on GitHub>*.*<在GitHub上查看>*.*<菜单-仓库>*.*<main
+O&pen in ${t??"Command Prompt"}>*.*<在${t ?? ""}中打开>*.*<菜单-仓库>*.*<main
+Show in E&xplorer>*.*<在资源管理器中显示>*.*<菜单-仓库>*.*<main
+&Open in ${e??"external editor"}>*.*<在 ${e ?? ""}中打开>*.*<菜单-仓库>*.*<main
+Create &issue on GitHub>*.*<在GitHub上创建问题(issue)>*.*<菜单-仓库>*.*<main
+Repository &settings…>*.*<存储库设置>*.*<菜单-仓库>*.*<main
+&Branch>*.*<分支>*.*<菜单-分支>*.*<main
+New &branch…>*.*<新建>*.*<菜单-分支>*.*<main
+&Rename…>*.*<重命名>*.*<菜单-分支>*.*<main
+&Delete…>*.*<删除>*.*<菜单-分支>*.*<main
+Discard all changes…>*.*<放弃所有更改>*.*<菜单-分支>*.*<main
+&Stash all changes…>*.*<暂存所有更改(stash)>*.*<菜单-分支>*.*<main
+&Stash all changes>*.*<暂存所有更改(stash)>*.*<菜单-分支>*.*<main
+&Update from ${a}>*.*<从${a}更新>*.*<菜单-分支>*.*<main
+&Compare to branch>*.*<与其他分支比较>*.*<菜单-分支>*.*<main
+&Merge into current branch…>*.*<合并到当前分支>*.*<菜单-分支>*.*<main
+Squas&h and merge into current branch…>*.*<压缩合并到当前分支>*.*<菜单-分支>*.*<main
+R&ebase current branch…>*.*<变基当前分支(Rebase)>*.*<菜单-分支>*.*<main
+Compare on &GitHub>*.*<在GitHub上比较>*.*<菜单-分支>*.*<main
+View branch on GitHub>*.*<在GitHub上查看>*.*<菜单-分支>*.*<main
+View &pull request on GitHub>*.*<在 GitHub 上查看Pull(拉取)请求>*.*<菜单-分支>*.*<main
+Create &pull request>*.*<创建拉取(Pull)请求>*.*<菜单-分支>*.*<main
+&Help>*.*<帮助>*.*<菜单-帮助>*.*<main
+Report issue…>*.*<问题反馈>*.*<菜单-帮助>*.*<main
+&Contact GitHub support…>*.*<联系GitHub支持>*.*<菜单-帮助>*.*<main
+Show User Guides>*.*<用户指南>*.*<菜单-帮助>*.*<main
+Show keyboard shortcuts>*.*<键盘快捷键>*.*<菜单-帮助>*.*<main
+S&how logs in Explorer>*.*<日志>*.*<菜单-帮助>*.*<main
+Failed opening logs directory>*.*<无法打开日志目录>*.*<菜单-帮助>*.*<main
+&About GitHub Desktop>*.*<关于>*.*<菜单-帮助>*.*<main
+Let's get started!>*.*<让我们一起摇摆！🥳🥳🥳>*.*<开始页>*.*<render
+Add a repository to GitHub Desktop to start collaborating>*.*<用GitHub Desktop协作开发>*.*<开始页>*.*<render
+Clone a repository from the Internet…>*.*<克隆存储库...>*.*<开始页>*.*<render
+Create a New Repository on your hard drive…>*.*<创建存储库...>*.*<开始页>*.*<render
+Add an Existing Repository from your hard drive…>*.*<打开存储库...>*.*<开始页>*.*<render
+ProTip!">*.*<提示：">*.*<开始页>*.*<render
+ You can drag & drop an existing repository folder here to add it to Desktop>*.*<您可以将本地的存储库文件夹拖放到此处进行添加>*.*<开始页>*.*<render
+Clone a repository">*.*<克隆仓库">*.*<待分组>*.*<render
+"Sign in";>*.*<"登录";>*.*<待分组>*.*<render
+Sign in to your GitHub.com account to access your repositories.>*.*<登录您的GitHub.com帐户访问您的存储库。>*.*<待分组>*.*<render
+Your new branch will be based on the commit '>*.*<您的新分支将基于提交 '>*.*<待分组>*.*<render
+from your repository.>*.*<从您的存储库。>*.*<待分组>*.*<render
+You do not currently have any branch checked out (your HEAD reference is detached). As such your new branch will be based on your currently checked out commit>*.*<您当前没有签出任何分支（您的头引用已分离). 因此，您的新分支将基于您当前签出的提交>*.*<待分组>*.*<render
+Your current branch is unborn (does not contain any commits). Creating a new branch will rename the current branch.>*.*<当前分支未绑定（不包含任何提交）。创建新分支将重命名当前分支。>*.*<待分组>*.*<render
+A branch named>*.*<分支名为>*.*<待分组>*.*<render
+already exists`>*.*<已存在`>*.*<待分组>*.*<render
+already exists on the remote.>*.*<已存在于远程>*.*<待分组>*.*<render
+URL or username/repository>*.*<URL 或用户名/存储库名>*.*<待分组>*.*<render
+Repository URL or GitHub username and repository>*.*<存储库URL或GitHub用户名和存储库>*.*<待分组>*.*<render
+Local path>*.*<本地路径>*.*<待分组>*.*<render
+repository path>*.*<存储库路径>*.*<待分组>*.*<render
+"Choose…">*.*<"选择…">*.*<待分组>*.*<render
+Filter your repositories>*.*<筛选存储库>*.*<待分组>*.*<render
+"Your repositories">*.*<"您的存储库">*.*<待分组>*.*<render
+Refresh the list of repositories>*.*<刷新存储库列表>*.*<待分组>*.*<render
+Looks like there are no repositories for>*.*<没有仓库>*.*<待分组>*.*<render
+Refresh this list>*.*<刷新此列表>*.*<待分组>*.*<render
+Loading repositories from ${n}…>*.*<从 ${n} 加载存储库…>*.*<待分组>*.*<render
+if you've created a repository recently.>*.*<如果您最近创建了存储库。>*.*<待分组>*.*<render
+Create a new repository">*.*<新建存储库">*.*<待分组>*.*<render
+Initialize this repository with a README>*.*<添加README文件>*.*<待分组>*.*<render
+Add local repository>*.*<添加本地存储库>*.*<待分组>*.*<render
+Add repository>*.*<添加存储库>*.*<待分组>*.*<render
+||"Cancel">*.*<||"取消">*.*<待分组>*.*<render
+Current repository">*.*<当前存储库">*.*<待分组>*.*<render
+Switching to branch>*.*<切换到分支>*.*<待分组>*.*<render
+Switching to>*.*<切换到>*.*<待分组>*.*<render
+`Current branch is>*.*<`当前分支是>*.*<待分组>*.*<render
+Rebasing branch>*.*<变基分支>*.*<待分组>*.*<render
+Rebasing $>*.*<变基中 $>*.*<待分组>*.*<render
+"Publish repository">*.*<"发布存储库">*.*<待分组>*.*<render
+Publish this repository to GitHub>*.*<将此仓库发布到GitHub>*.*<待分组>*.*<render
+"Publish branch">*.*<"发布分支">*.*<待分组>*.*<render
+Rebase in progress>*.*<正在重设变基>*.*<待分组>*.*<render
+Publish this branch to GitHub>*.*<将此分支发布到GitHub>*.*<待分组>*.*<render
+Publish this branch to the remote>*.*<将此分支发布到远程>*.*<待分组>*.*<render
+Fetch ${e}>*.*<同步(拉取然后推送) ${e}>*.*<待分组>*.*<render
+Force push ${e}>*.*<强制推送 ${e}>*.*<待分组>*.*<render
+Pull ${e} with rebase>*.*<拉取 ${e} 至变基>*.*<待分组>*.*<render
+Pull ${e}>*.*<拉取 ${e}>*.*<待分组>*.*<render
+`Push ${e}`>*.*<`推送 ${e}`>*.*<待分组>*.*<render
+"History")>*.*<"历史")>*.*<待分组>*.*<render
+No local changes">*.*<本地无更改">*.*<待分组>*.*<render
+There are no uncommitted changes in this repository. Here are some friendly suggestions for what to do next.>*.*<此存储库中没有未提交的更改>*.*<待分组>*.*<render
+Summary (required)>*.*<摘要(必填)>*.*<待分组>*.*<render
+Create ${i}>*.*<创建 ${i}>*.*<待分组>*.*<render
+Delete ${i}>*.*<删除 ${i}>*.*<待分组>*.*<render
+Update ${i}>*.*<更新 ${i}>*.*<待分组>*.*<render
+Your changes will modify your >*.*<您的更改将修改 >*.*<待分组>*.*<render
+most recent commit>*.*<最近提交>*.*<待分组>*.*<render
+Stop amending>*.*<停止修改>*.*<待分组>*.*<render
+to make these changes as a new commit.>*.*<将这些更改作为新提交。>*.*<待分组>*.*<render
+You don't have write access to >*.*<您没有写入权限 >*.*<待分组>*.*<render
+". Want to">*.*<". 想要">*.*<待分组>*.*<render
+"create a fork">*.*<"创建分支">*.*<待分组>*.*<render
+ is a protected branch. Want to>*.*< 是受保护的分支。想要>*.*<待分组>*.*<render
+"switch branches">*.*<"交换分支">*.*<待分组>*.*<render
+"Amending">*.*<"修改中">*.*<待分组>*.*<render
+"Amend">*.*<"修改">*.*<待分组>*.*<render
+"Committing">*.*<"提交中">*.*<待分组>*.*<render
+"Commit";>*.*<"提交";>*.*<待分组>*.*<render
+last commit>*.*<上次提交>*.*<待分组>*.*<render
+${l} to ${t}>*.*<${l} 到 ${t}>*.*<待分组>*.*<render
+A commit summary is required to commit>*.*<提交时需要提交摘要>*.*<待分组>*.*<render
+Select one or more files to commit>*.*<请选择一个或多个要提交的文件>*.*<待分组>*.*<render
+Committing changes…>*.*<正在提交更改…>*.*<待分组>*.*<render
+" to ">*.*<" 到 ">*.*<待分组>*.*<render
+Great commit summaries contain fewer than 50 characters>*.*<优秀的提交摘要要精简>*.*<待分组>*.*<render
+Place extra information in the description field.>*.*<在描述字段中放置额外信息。>*.*<待分组>*.*<render
+okButtonText:"Clone">*.*<okButtonText: "克隆">*.*<待分组>*.*<render
+If you have a GitHub Enterprise or AE account at work, sign in to it to get access to your repositories.>*.*<如果您有GitHub Enterprise或AE帐户，请登录该帐户以访问您的存储库。>*.*<待分组>*.*<render
+Select,>*.*<选择,>*.*<待分组>*.*<render
+Clone As:>*.*<克隆到:>*.*<待分组>*.*<render
+label:"Name">*.*<label: "名称">*.*<待分组>*.*<render
+Sorry, I can't find any repository matching>*.*<没有匹配的存储库>*.*<待分组>*.*<render
+" on ",>*.*<" 在 ",>*.*<待分组>*.*<render
+"repository name",>*.*<"存储库名称",>*.*<待分组>*.*<render
+label:"Description",>*.*<label: "描述",>*.*<待分组>*.*<render
+okButtonText:"Create repository",>*.*<okButtonText:"新建存储库",>*.*<待分组>*.*<render
+cancelButtonText:"Cancel",>*.*<cancelButtonText:"取消",>*.*<待分组>*.*<render
+label:"Cancel",>*.*<label: "取消",>*.*<待分组>*.*<render
+label:"OK",>*.*<label:"确定",>*.*<待分组>*.*<render
+"Current branch",>*.*<"当前分支",>*.*<待分组>*.*<render
+"Changes"),>*.*<"更改"),>*.*<待分组>*.*<render
+placeholder:"Description",>*.*<placeholder:"描述",>*.*<待分组>*.*<render
+"Publish your repository to GitHub">*.*<"将仓库发布到GitHub">*.*<待分组>*.*<render
+This repository is currently only available on your local machine. By publishing it on GitHub you can share it, and collaborate with others.>*.*<此仓库当前仅在本地计算机上可用。通过在GitHub上发布，您可以共享它，并与其他人协作。>*.*<待分组>*.*<render
+The current branch (>*.*<当前分支(>*.*<待分组>*.*<render
+) hasn't been published to the remote yet. By publishing it >*.*<)尚未发布到远程。通过发布它 >*.*<待分组>*.*<render
+"to GitHub">*.*<"到 GitHub">*.*<待分组>*.*<render
+" you can share it, ">*.*<" 你可以分享, ">*.*<待分组>*.*<render
+open a pull request,>*.*<打开拉取请求>*.*<待分组>*.*<render
+"and collaborate with others.">*.*<"并与他人合作。">*.*<待分组>*.*<render
+Always available in the toolbar for local repositories or>*.*<使用快捷键>*.*<待分组>*.*<render
+Publish your branch>*.*<发布分支>*.*<待分组>*.*<render
+") has">*.*<")有">*.*<待分组>*.*<render
+"a commit">*.*<"1项提交">*.*<待分组>*.*<render
+"commits",>*.*<"多项提交",>*.*<待分组>*.*<render
+" on",>*.*<" 在",>*.*<待分组>*.*<render
+"the remote">*.*<"远程">*.*<待分组>*.*<render
+" that">*.*<" 那">*.*<待分组>*.*<render
+"does not">*.*<"不是">*.*<待分组>*.*<render
+"do not">*.*<"不要">*.*<待分组>*.*<render
+" exist on your machine.">*.*<" 存在于您的计算机上。">*.*<待分组>*.*<render
+Open the repository in your external editor>*.*<在文件管理器中查看存储库>*.*<待分组>*.*<render
+Could not find matching menu item for ${e}>*.*<找不到的匹配菜单项 ${e}>*.*<待分组>*.*<render
+"Options">*.*<"选项">*.*<待分组>*.*<render
+Select your editor in>*.*<选择编辑器：>*.*<待分组>*.*<render
+View the files of your repository in ${e}>*.*<在资源管理器中查看存储库>*.*<待分组>*.*<render
+ menu or>*.*<菜单 或 快捷键:>*.*<待分组>*.*<render
+changed ${1===e?"file":"files"}>*.*<更改 ${1 === e ? "文件" : "文件"}>*.*<待分组>*.*<render
+"Undo"))>*.*<"撤销"))>*.*<待分组>*.*<render
+Undo is disabled while the repository is being updated>*.*<更新仓库时禁用撤消>*.*<待分组>*.*<render
+"Undo commit">*.*<"撤消提交">*.*<待分组>*.*<render
+"Committed ">*.*<"提交于">*.*<待分组>*.*<render
+ ago>*.*<前>*.*<待分组>*.*<render
+"file":"files">*.*<"文件":"文件">*.*<待分组>*.*<render
+ changed $>*.*< 项变更$>*.*<待分组>*.*<render
+"Accounts")>*.*<"帐户")>*.*<待分组>*.*<render
+"Integrations")>*.*<"集成")>*.*<待分组>*.*<render
+"Appearance")>*.*<"主题")>*.*<待分组>*.*<render
+"Prompts")>*.*<"提示")>*.*<待分组>*.*<render
+"Advanced")>*.*<"高级")>*.*<待分组>*.*<render
+"Applications">*.*<"应用">*.*<待分组>*.*<render
+Show a confirmation dialog before...>*.*<确认对话框>*.*<待分组>*.*<render
+Removing repositories>*.*<删除仓库>*.*<待分组>*.*<render
+"Discarding changes">*.*<"放弃更改">*.*<待分组>*.*<render
+Discarding changes permanently>*.*<永久放弃更改>*.*<待分组>*.*<render
+"Force pushing">*.*<"强制推送">*.*<待分组>*.*<render
+"External editor">*.*<"外部编辑器">*.*<待分组>*.*<render
+No editors found.>*.*<找不到编辑器。>*.*<待分组>*.*<render
+"Install ">*.*<"安装 ">*.*<待分组>*.*<render
+Loading system theme>*.*<加载系统主题>*.*<待分组>*.*<render
+"High Contrast">*.*<"高对比度">*.*<待分组>*.*<render
+Customizable High Contrast Theme>*.*<可定制的高对比度主题>*.*<待分组>*.*<render
+title:"Dark">*.*<title:"暗夜主题">*.*<待分组>*.*<render
+GitHub Desktop is for you too, creatures of the night>*.*<黑夜模式>*.*<待分组>*.*<render
+title:"Light">*.*<title:"白昼主题">*.*<待分组>*.*<render
+The default theme of GitHub Desktop>*.*<默认主题>*.*<待分组>*.*<render
+title:"System">*.*<title:"系统主题">*.*<待分组>*.*<render
+Automatically switch theme to match system theme>*.*<跟随系统自动切换主题>*.*<待分组>*.*<render
+Default branch name for new repositories>*.*<新建存储库时默认分支>*.*<待分组>*.*<render
+Other…>*.*<其他...>*.*<待分组>*.*<render
+These preferences will edit your global Git config.>*.*<这些首选项将编辑您的全局Git配置>*.*<待分组>*.*<render
+If I have changes and I switch branches...>*.*<如果我有更改并切换分支...>*.*<待分组>*.*<render
+Ask me where I want the changes to go>*.*<询问我要更改的位置>*.*<待分组>*.*<render
+Always bring my changes to my new branch>*.*<始终将我的更改带到我的新分支>*.*<待分组>*.*<render
+Always stash and leave my changes on the current branch>*.*<始终将更改保存并保留在当前分支上>*.*<待分组>*.*<render
+Background updates>*.*<后台更新>*.*<待分组>*.*<render
+Periodically fetch and refresh status of all repositories>*.*<定期获取和刷新所有仓库的状态>*.*<待分组>*.*<render
+Allows the display of up-to-date status indicators in the repository list. Disabling this may improve performance with many repositories.>*.*<允许在仓库列表中显示最新状态，禁用此选项可以大量提高仓库性能。>*.*<待分组>*.*<render
+"Usage")>*.*<"使用情况")>*.*<待分组>*.*<render
+Use system OpenSSH (recommended)>*.*<使用系统OpenSSH(推荐)>*.*<待分组>*.*<render
+"Notifications">*.*<"通知">*.*<待分组>*.*<render
+Enable notifications>*.*<启用通知>*.*<待分组>*.*<render
+Allows the display of notifications when high-signal events take place in the current repository.>*.*<允许在当前仓库中发生高级事件时显示通知。>*.*<待分组>*.*<render
+"You need to">*.*<"你需要">*.*<待分组>*.*<render
+to display these notifications from GitHub Desktop.>*.*<从GitHub DeskTop显示这些通知>*.*<待分组>*.*<render
+GitHub Desktop has no permission to display notifications. Please, enable them in the>*.*<GitHub DeskTop没有显示通知的权限。请在设置中启用它们>*.*<待分组>*.*<render
+Notifications Settings>*.*<通知设置>*.*<待分组>*.*<render
+"enabled";>*.*<"允许";>*.*<待分组>*.*<render
+Make sure notifications are>*.*<确认GitHub DeskTop>*.*<待分组>*.*<render
+for GitHub Desktop in the>*.*<向你发出通知>*.*<待分组>*.*<render
+okButtonText:"Save">*.*<okButtonText:"保存">*.*<待分组>*.*<render
+Help GitHub Desktop improve by submitting>*.*<帮助GitHub Desktop改进，允许提交>*.*<待分组>*.*<render
+usage stats>*.*<使用状态>*.*<待分组>*.*<render
+="Search",>*.*<="搜索",>*.*<待分组>*.*<render
+Last fetched>*.*<最后一次同步在>*.*<待分组>*.*<render
+Never fetched>*.*<从未获取>*.*<待分组>*.*<render
+Select branch to compare...>*.*<选择分支进行比较>*.*<待分组>*.*<render
+No branches to compare>*.*<没有分支>*.*<待分组>*.*<render
+"The compared branch (",>*.*<"比较的分支 (",>*.*<待分组>*.*<render
+is up to date with your branch>*.*<是您分支的最新信息>*.*<待分组>*.*<render
+Your branch is up to date with the compared branch>*.*<您的分支与比较的分支是最新的>*.*<待分组>*.*<render
+"Check for Updates">*.*<"检查更新">*.*<待分组>*.*<render
+Quit and Install Update>*.*<退出并安装更新>*.*<待分组>*.*<render
+Checking for updates…>*.*<正在检查更新...>*.*<待分组>*.*<render
+Downloading update…>*.*<正在下载…>*.*<待分组>*.*<render
+You have the latest version (last checked>*.*<当前已是最新版本 (最后检查时间:>*.*<待分组>*.*<render
+An update has been downloaded and is ready to be installed.>*.*<已下载更新并准备安装。>*.*<待分组>*.*<render
+Unknown update status>*.*<未知更新状态>*.*<待分组>*.*<render
+Couldn't determine the last time an update check was performed. You may be running an old version. Please try manually checking for updates and contact GitHub Support if the problem persists>*.*<无法确定上次执行更新检查的时间，您可能正在运行旧版本，请尝试手动检查更新，如果问题仍然存在，请联系GitHub支持>*.*<待分组>*.*<render
+Looking for the latest features?>*.*<想要查看最新功能？>*.*<待分组>*.*<render
+Check out the">*.*<请查看">*.*<待分组>*.*<render
+Beta Channel>*.*<测试版>*.*<待分组>*.*<render
+"release notes">*.*<"发布记录">*.*<待分组>*.*<render
+`Version ${t}`>*.*<`版本 ${t}`>*.*<待分组>*.*<render
+"Terms and Conditions">*.*<"服务条款">*.*<待分组>*.*<render
+License and Open Source Notices>*.*<许可证和开源声明>*.*<待分组>*.*<render
+okButtonText:"Close",>*.*<okButtonText:"关闭",>*.*<待分组>*.*<render
+"Close"):>*.*<"关闭"):>*.*<待分组>*.*<render
+cancelButtonText:"Close">*.*<cancelButtonText:"Close">*.*<待分组>*.*<render
+||"Close">*.*<||"关闭">*.*<待分组>*.*<render
+just now>*.*<此刻>*.*<待分组>*.*<render
+Repository settings>*.*<存储库设置>*.*<待分组>*.*<render
+"Remote")>*.*<"远程")>*.*<待分组>*.*<render
+Fork behavior>*.*<分支行为>*.*<待分组>*.*<render
+"Git config">*.*<"Git 配置">*.*<待分组>*.*<render
+Ignored files>*.*<忽略文件>*.*<待分组>*.*<render
+Primary remote repository (>*.*<远程存储库 (>*.*<待分组>*.*<render
+Remote URL>*.*<远程 URL>*.*<待分组>*.*<render
+Editing>*.*<编辑>*.*<待分组>*.*<render
+This file specifies intentionally untracked files that Git should ignore. Files already tracked by Git are not affected>*.*<文件，该文件指定Git应该忽略的故意未跟踪的文件，Git已经跟踪的文件不受影响>*.*<待分组>*.*<render
+"Learn more">*.*<"了解更多">*.*<待分组>*.*<render
+For this repository I wish to>*.*<对于此仓库，我想>*.*<待分组>*.*<render
+Use my global Git config>*.*<使用全局Git配置>*.*<待分组>*.*<render
+Use a local Git config>*.*<使用本地Git配置>*.*<待分组>*.*<render
+"Default branch">*.*<"默认分支">*.*<待分组>*.*<render
+"Recent branches">*.*<"最近分支">*.*<待分组>*.*<render
+"Other branches">*.*<"其它分支">*.*<待分组>*.*<render
+Unknown identifier>*.*<未知标识符>*.*<待分组>*.*<render
+Checking for ability to merge automatically...>*.*<正在检查允许自动合并...>*.*<待分组>*.*<render
+This branch is up to date with>*.*<此分支是最新的>*.*<待分组>*.*<render
+This will merge>*.*<这将合并>*.*<待分组>*.*<render
+" from ">*.*<" 自 ">*.*<待分组>*.*<render
+" into ">*.*<" 到 ">*.*<待分组>*.*<render
+Unable to merge unrelated histories in this repository>*.*<无法在此仓库中合并不相关的历史记录>*.*<待分组>*.*<render
+There will be>*.*<这将会>*.*<待分组>*.*<render
+conflicted>*.*<冲突>*.*<待分组>*.*<render
+when merging>*.*<当合并时>*.*<待分组>*.*<render
+"Rebase ">*.*<"变基 ">*.*<待分组>*.*<render
+Create a merge commit>*.*<创建合并提交>*.*<待分组>*.*<render
+The commits from the selected branch will be added to the current branch via a merge commit>*.*<来自所选分支的提交将通过合并提交添加到当前分支>*.*<待分组>*.*<render
+Squash and merge>*.*<压缩合并>*.*<待分组>*.*<render
+The commits in the selected branch will be combined into one commit in the current branch>*.*<选定分支中的提交将合并为当前分支中的一个提交>*.*<待分组>*.*<render
+label:"Rebase",>*.*<label:"变基",>*.*<待分组>*.*<render
+The commits from the selected branch will be rebased and added to the current branch>*.*<来自所选分支的提交将重新设置基础并添加到当前分支>*.*<待分组>*.*<render
+Squash and ">*.*<压缩并">*.*<待分组>*.*<render
+Merge into>*.*<合并到>*.*<待分组>*.*<render
+Checking for ability to merge automatically...>*.*<正在检查可允许的自动合并>*.*<待分组>*.*<render
+Authentication failed. Some common reasons include:\n\n- You are not logged in to your account: see File > Options.\n- You may need to log out and log back in to refresh your token.\n- You do not have permission to access this repository.\n- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.\n- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.\n- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.\n- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service>*.*<身份验证失败。一些常见原因包括：\n\n- 您尚未登录到您的帐户：请参阅文件>选项。\n- 您可能需要注销并重新登录才能刷新令牌。\n- 您没有访问此存储库的权限。\n- 存储库存档在 GitHub 上。检查存储库设置以确认您仍可以推送提交。\n- 如果您使用 SSH 身份验证，请检查您的密钥是否已添加到 ssh 代理并与您的帐户关联。\n- 如果使用 SSH 身份验证，请确保存储库托管服务的主机密钥验证通过。\n- 如果使用了用户名/密码身份验证，则可能需要使用个人访问令牌而不是帐户密码。请查看存储库托管服务的文档>*.*<待分组>*.*<render
+The SSH key is unverified>*.*<SSH密钥未验证>*.*<待分组>*.*<render
+The remote disconnected. Check your Internet connection and try again>*.*<远程已断开连接。请检查您的Internet连接，然后重试>*.*<待分组>*.*<render
+The host is down. Check your Internet connection and try again>*.*<主机已关闭。请检查您的Internet连接，然后重试>*.*<待分组>*.*<render
+We found some conflicts while trying to rebase. Please resolve the conflicts before continuing>*.*<我们在尝试重新变基时发现了一些冲突。请在继续之前解决冲突>*.*<待分组>*.*<render
+We found some conflicts while trying to merge. Please resolve the conflicts and commit the changes>*.*<尝试合并时发现一些冲突。请解决冲突并提交更改>*.*<待分组>*.*<render
+The repository does not seem to exist anymore. You may not have access, or it may have been deleted or renamed>*.*<存储库似乎不再存在。您可能没有访问权限，或者它可能已被删除或重命名>*.*<待分组>*.*<render
+The repository has been updated since you last pulled. Try pulling before pushing>*.*<自上次提取后，存储库已更新。在推送之前试着拉取>*.*<待分组>*.*<render
+Could not delete the branch. It was probably already deleted>*.*<无法删除分支。它可能已被删除>*.*<待分组>*.*<render
+The branch is the repository's default branch and cannot be deleted>*.*<该分支是仓库的默认分支，无法删除>*.*<待分组>*.*<render
+To finish reverting, please merge and commit the changes>*.*<要完成还原，请合并并提交更改>*.*<待分组>*.*<render
+There aren’t any changes left to apply>*.*<没有要应用的任何更改>*.*<待分组>*.*<render
+There aren’t any remote branches that match the current branch>*.*<没有任何与当前分支匹配的远程分支>*.*<待分组>*.*<render
+There are no changes to commit>*.*<没有要提交的更改>*.*<待分组>*.*<render
+A submodule was removed from .gitmodules, but the folder still exists in the repository. Delete the folder, commit the change, then try again>*.*<已从中删除子模块。gitmodules，但该文件夹仍存在于仓库中。删除文件夹，提交更改，然后重试>*.*<待分组>*.*<render
+A submodule points to a location which does not exist>*.*<子模块指向不存在的位置>*.*<待分组>*.*<render
+A submodule points to a commit which does not exist>*.*<子模块指向不存在的提交>*.*<待分组>*.*<render
+Permission denied.>*.*<权限被拒绝。>*.*<待分组>*.*<render
+This is not something we can merge>*.*<这不是我们可以合并的东西>*.*<待分组>*.*<render
+This is not something we can rebase>*.*<这不是我们可以调整的变基>*.*<待分组>*.*<render
+The merge you attempted is not a fast-forward, so it cannot be performed on an empty branch>*.*<您尝试的合并不是快进，因此无法在空分支上执行>*.*<待分组>*.*<render
+The requested changes conflict with one or more files in the repository>*.*<请求的更改与仓库中的一个或多个文件冲突>*.*<待分组>*.*<render
+A branch with that name already exists>*.*<具有该名称的分支已存在>*.*<待分组>*.*<render
+Bad revision>*.*<错误的修订>*.*<待分组>*.*<render
+This is not a git repository>*.*<这不是git仓库>*.*<待分组>*.*<render
+This branch is protected from force-push operations>*.*<此分支受到强制推送操作的保护>*.*<待分组>*.*<render
+This branch is protected and any changes requires an approved review. Open a pull request with changes targeting this branch instead>*.*<此分支受到保护，任何更改都需要经过批准的审查。打开一个pull请求，更改的目标改为此分支>*.*<待分组>*.*<render
+The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please remove the file from history and try again>*.*<推送操作包括一个超过GitHub的100MB文件大小限制的文件。请从历史记录中删除该文件，然后重试>*.*<待分组>*.*<render
+The branch name cannot be a 40-character string of hexadecimal characters, as this is the format that Git uses for representing objects>*.*<分支名称不能是由十六进制字符组成的40个字符的字符串，因为这是Git用于表示对象的格式>*.*<待分组>*.*<render
+The force push has been rejected for the current branch>*.*<当前分支的强制推送已被拒绝>*.*<待分组>*.*<render
+A ref cannot be longer than 255 characters>*.*<引用长度不能超过255个字符>*.*<待分组>*.*<render
+Unable to merge unrelated histories in this repository.>*.*<无法在此仓库中合并不相关的历史记录>*.*<待分组>*.*<render
+Cannot push these commits as they contain an email address marked as private on GitHub. To push anyway, visit https://github.com/settings/emails, uncheck "Keep my email address private", then switch back to GitHub Desktop to push your commits. You can then enable the setting again>*.*<无法推送这些提交，因为它们包含GitHub上标记为专用的电子邮件地址。要继续推送，请访问https://github.com/settings/emails，取消选中“保持我的电子邮件地址私有”，然后切换回GitHub桌面以推动提交。然后可以再次启用该设置>*.*<待分组>*.*<render
+Git LFS attribute found in global Git configuration does not match expected value>*.*<在全局Git配置中找到的Git LFS属性与预期值不匹配>*.*<待分组>*.*<render
+This branch cannot be deleted from the remote repository because it is marked as protected>*.*<无法从远程仓库中删除此分支，因为它被标记为受保护>*.*<待分组>*.*<render
+The push was rejected by the remote server because a required status check has not been satisfied>*.*<推送被远程服务器拒绝，因为未满足所需的状态检查>*.*<待分组>*.*<render
+The branch could not be renamed>*.*<无法重命名分支>*.*<待分组>*.*<render
+The path does not exist on disk>*.*<磁盘上不存在路径>*.*<待分组>*.*<render
+The object was not found in the Git repository>*.*<在Git仓库中找不到该对象>*.*<待分组>*.*<render
+This path is not a valid path inside the repository>*.*<此路径不是仓库中的有效路径>*.*<待分组>*.*<render
+A lock file already exists in the repository, which blocks this operation from completing>*.*<仓库中已存在锁定文件，这将阻止此操作完成>*.*<待分组>*.*<render
+There is no merge in progress, so there is nothing to abort>*.*<没有正在进行的合并，因此没有要中止的内容>*.*<待分组>*.*<render
+The remote branch does not exist>*.*<远程分支不存在>*.*<待分组>*.*<render
+Unable to switch branches as there are working directory changes which would be overwritten. Please commit or stash your changes>*.*<无法切换分支，因为存在将被覆盖的工作目录更改。请提交或隐藏您的更改>*.*<待分组>*.*<render
+There are unresolved conflicts in the working directory>*.*<工作目录中存在未解决的冲突>*.*<待分组>*.*<render
+A tag with that name already exists>*.*<具有该名称的标记已存在>*.*<待分组>*.*<render
+label:"Unified",>*.*<label:"标准",>*.*<待分组>*.*<render
+"Split")>*.*<"分割")>*.*<待分组>*.*<render
+"Whitespace">*.*<"空格">*.*<待分组>*.*<render
+Hide whitespace changes>*.*<隐藏空格更改>*.*<待分组>*.*<render
+Interacting with individual lines or hunks will be disabled while hiding whitespace.>*.*<隐藏空格时将禁用与单行或块的交互。>*.*<待分组>*.*<render
+Diff display>*.*<差异显示>*.*<待分组>*.*<render
+Desktop is unable to push commits to this branch because there are commits on the remote that are not present on your local branch. Fetch these new commits before pushing in order to reconcile them with your local commits.>*.*<无法将推送提交到此分支，因为远程上的提交在本地分支上不存在。在推送之前获取这些新提交，以使它们与您的本地提交同步。>*.*<待分组>*.*<render
+"Publish branch?">*.*<"发布分支?">*.*<待分组>*.*<render
+"Push local changes?">*.*<"推送本地更改?">*.*<待分组>*.*<render
+okButtonText:"Publish branch">*.*<okButtonText:"发布分支">*.*<待分组>*.*<render
+okButtonText:"Push commits",>*.*<okButtonText:"推送提交",>*.*<待分组>*.*<render
+Create without pushing>*.*<无推送创建>*.*<待分组>*.*<render
+Your branch must be published before opening a pull request.>*.*<您的分支必须在打开拉取请求之前发布。>*.*<待分组>*.*<render
+Always available in the toolbar when there are local commits waiting to be pushed or >*.*<存储库菜单 或 快捷键:>*.*<待分组>*.*<render
+Could not find matching menu item for push>*.*<找不到匹配的推送菜单项>*.*<待分组>*.*<render
+"1 local commit">*.*<"1 个本地提交">*.*<待分组>*.*<render
+local commits`>*.*<个本地提交`>*.*<待分组>*.*<render
+`You have>*.*<`你有>*.*<待分组>*.*<render
+waiting to be pushed to>*.*<等待被推送到>*.*<待分组>*.*<render
+`Push >*.*<`推送 >*.*<待分组>*.*<render
+to the ${t.name} remote>*.*<到远程 ${t.name}>*.*<待分组>*.*<render
+"commits")>*.*<"提交")>*.*<待分组>*.*<render
+An updated version of GitHub Desktop is available and will be installed at the next launch. See>*.*< GitHub Desktop 有新版本可用，将在下次启动时安装。查看>*.*<待分组>*.*<render
+what's new>*.*<更新内容>*.*<待分组>*.*<render
+" or",>*.*<" 或",>*.*<待分组>*.*<render
+"restart GitHub Desktop">*.*<"重启 GitHub Desktop">*.*<待分组>*.*<render
+Stashed Changes>*.*<暂存的更改>*.*<待分组>*.*<render
+Unable to restore stash when changes are present on your branch.>*.*<当前的分支存在更改，无法恢复暂存。>*.*<待分组>*.*<render
+okButtonText:"Restore">*.*<okButtonText:"恢复">*.*<待分组>*.*<render
+cancelButtonText:"Discard">*.*<cancelButtonText:"放弃">*.*<待分组>*.*<render
+Stashed changes>*.*<暂存的更改>*.*<待分组>*.*<render
+Copy repo name>*.*<复制仓库名称>*.*<待分组>*.*<render
+Copy repo path>*.*<复制仓库路径>*.*<待分组>*.*<render
+"View on GitHub",>*.*<"在GitHub上查看",>*.*<待分组>*.*<render
+Open in>*.*<打开于>*.*<待分组>*.*<render
+Remove…>*.*<移除...>*.*<待分组>*.*<render
+"Remove",>*.*<"移除",>*.*<待分组>*.*<render
+"Create":"Change">*.*<"创建":"变更">*.*<待分组>*.*<render
+" alias">*.*<" 别名">*.*<待分组>*.*<render
+Show in Explorer>*.*<在资源管理器中显示>*.*<待分组>*.*<render
+Copy file path>*.*<复制文件路径>*.*<待分组>*.*<render
+Copy relative file path>*.*<复制文件相对路径>*.*<待分组>*.*<render
+Open in external editor>*.*<在外部编辑器中打开>*.*<待分组>*.*<render
+Open with default program>*.*<使用默认程序打开>*.*<待分组>*.*<render
+"Recycle Bin",>*.*<"回收站",>*.*<待分组>*.*<render
+Ignore file (add to .gitignore)>*.*<忽略此文件(添加到.gitignore)>*.*<待分组>*.*<render
+Ignore all ${e} files (add to .gitignore)>*.*<忽略所有 ${e} 文件 (添加到.gitignore)>*.*<待分组>*.*<render
+View your stashed changes>*.*<查看暂存更改>*.*<待分组>*.*<render
+"You have ">*.*<"你有 ">*.*<待分组>*.*<render
+"change":"changes">*.*<"项更改":"项更改">*.*<待分组>*.*<render
+ in progress that you have not yet committed.>*.*<在你的程序中，您尚未提交。>*.*<待分组>*.*<render
+When a stash exists, access it at the bottom of the Changes tab to the left.>*.*<当暂存更改存在时，可以在左侧的“更改”选项卡的底部查看这些暂存的更改。>*.*<待分组>*.*<render
+"Discard changes":`Discard ${e.length} selected changes`;>*.*<"放弃更改":`放弃 ${e.length} 项选中的更改`;>*.*<待分组>*.*<render
+Discard all changes…>*.*<放弃所有更改...>*.*<待分组>*.*<render
+Stash all changes…>*.*<暂存所有更改...>*.*<待分组>*.*<render
+Stash all changes>*.*<暂存所有更改>*.*<待分组>*.*<render
+Copy paths>*.*<复制路径>*.*<待分组>*.*<render
+Copy relative paths>*.*<复制相对路径>*.*<待分组>*.*<render
+Ignore file (add to .gitignore)>*.*<忽略文件（添加到.gitignore）>*.*<待分组>*.*<render
+Ignore ${c.length} selected files (add to .gitignore)>*.*<忽略 ${c.length} 项选中的文件 (添加到.gitignore)>*.*<待分组>*.*<render
+Include selected files>*.*<包括选中的文件>*.*<待分组>*.*<render
+Exclude selected files>*.*<排除选中的文件>*.*<待分组>*.*<render
+Ignore all ${e} files (add to .gitignore)>*.*<忽略所有文件（添加到.gitignore）>*.*<待分组>*.*<render
+label:"Undo commit",>*.*<label:"撤销提交",>*.*<待分组>*.*<render
+Undo commit…>*.*<撤销提交>*.*<待分组>*.*<render
+Amend commit…>*.*<修改提交>*.*<待分组>*.*<render
+Reset to commit…>*.*<重置提交>*.*<待分组>*.*<render
+Revert changes in commit>*.*<在提交中还原更改>*.*<待分组>*.*<render
+Create branch from commit>*.*<根据提交创建分支>*.*<待分组>*.*<render
+Create Tag…>*.*<创建标签>*.*<待分组>*.*<render
+Cherry-pick commit…>*.*<筛选提交>*.*<待分组>*.*<render
+Copy SHA>*.*<复制SHA>*.*<待分组>*.*<render
+View on GitHub>*.*<在Github上查看>*.*<待分组>*.*<render
+View on GitHub Enterprise>*.*<在Github企业版上查看>*.*<待分组>*.*<render
+Remove repository>*.*<移除仓库>*.*<待分组>*.*<render
+Are you sure you want to remove the repository>*.*<确定从Github Desktop中移除仓库>*.*<待分组>*.*<render
+from GitHub Desktop?>*.*<?>*.*<待分组>*.*<render
+Also move this repository to Recycle Bin>*.*<同时从本地删除此仓库>*.*<待分组>*.*<render
+The repository will be removed from GitHub Desktop:>*.*<存储库将从Github Desktop中移除：>*.*<待分组>*.*<render
+okButtonText:"Remove">*.*<okButtonText:"移除">*.*<待分组>*.*<render
+This binary file has changed.>*.*<此二进制文件已更改>*.*<待分组>*.*<render
+Open file in external program.>*.*<使用外部程序打开文件>*.*<待分组>*.*<render
+"Confirm discard changes",>*.*<"确认放弃更改",>*.*<待分组>*.*<render
+Are you sure you want to discard the selected changes to:>*.*<确定要放弃选中的更改吗？>*.*<待分组>*.*<render
+label:"Do not show this message again",>*.*<label:"不再显示此消息",>*.*<待分组>*.*<render
+Are you sure you want to discard all changes to:>*.*<确定要放弃所有更改吗？>*.*<待分组>*.*<render
+return "Discard changes">*.*<return "放弃更改">*.*<待分组>*.*<render
+Changes can be restored by retrieving them from the >*.*<变更可以恢复，通过检索>*.*<待分组>*.*<render
+"Confirm discard changes">*.*<"确认放弃更改">*.*<待分组>*.*<render
+Confirm discard all changes>*.*<确认放弃所有更改>*.*<待分组>*.*<render
+"Discard all changes":"Discard changes">*.*<"放弃所有更改":"放弃更改">*.*<待分组>*.*<render
+Your new branch will be based on your currently checked out branch (>*.*<新分支将基于当前签出的分支 (>*.*<待分组>*.*<render
+" is the ">*.*<" 是仓库的 ">*.*<待分组>*.*<render
+ for your repository.>*.*<>*.*<待分组>*.*<render
+,"default branch">*.*<,"默认分支">*.*<待分组>*.*<render
+Create a branch>*.*<新建分支>*.*<待分组>*.*<render
+:"Create branch">*.*<:"确定">*.*<待分组>*.*<render
+The file is empty>*.*<空文件>*.*<待分组>*.*<render
+The file was renamed but not changed>*.*<文件已重命名，但未进行更改>*.*<待分组>*.*<render
+The file is in conflict and must be resolved via the command line.>*.*<文件冲突，必须通过命令行解决>*.*<待分组>*.*<render
+Only whitespace changes found>*.*<仅找到空白更改>*.*<待分组>*.*<render
+No content changes found>*.*<未找到更改内容>*.*<待分组>*.*<render
+Sign in using your browser>*.*<使用浏览器登录>*.*<待分组>*.*<render
+Continue with browser>*.*<打开浏览器>*.*<待分组>*.*<render
+To improve the security of your account, GitHub now requires you to sign in through your browser.>*.*<为了提高账户安全性，您必须使用浏览器登录>*.*<待分组>*.*<render
+Your browser will redirect you back to GitHub Desktop once you've signed in. If your browser asks for your permission to launch GitHub Desktop please allow it to.>*.*<登录后，浏览器将会重定向到GitHub Desktop。如果您的浏览器请求您允许启动GitHub Desktop，请点击允许。>*.*<待分组>*.*<render
+Your GitHub Enterprise instance requires you to sign in with your browser.>*.*<您必须使用浏览器登录GitHub Enterprise>*.*<待分组>*.*<render
+"Continue">*.*<"确定">*.*<待分组>*.*<render
+Enterprise address>*.*<企业版地址>*.*<待分组>*.*<render
+Choose a new alias for the repository>*.*<请输入别名，此别名对应的存储库是>*.*<待分组>*.*<render
+repository alias`>*.*<存储库别名`>*.*<待分组>*.*<render
+alias`>*.*<别名`>*.*<待分组>*.*<render
+Clone repository…>*.*<克隆存储库>*.*<待分组>*.*<render
+Create new repository…>*.*<创建存储库>*.*<待分组>*.*<render
+Add existing repository…>*.*<添加存储库>*.*<待分组>*.*<render
+},"Add",>*.*<},"添加",>*.*<待分组>*.*<render
+Sorry, I can't find that repository>*.*<抱歉，未找到存储库>*.*<待分组>*.*<render
+ProTip! Press >*.*<提示! >*.*<待分组>*.*<render
+to quickly add a local repository, and>*.*<可快速添加本地存储库，>*.*<待分组>*.*<render
+ to clone from anywhere within the app>*.*<可快速进行克隆>*.*<待分组>*.*<render
+Filter your repositories>*.*<筛选存储库>*.*<待分组>*.*<render
+||"Filter",>*.*<||"请输入筛选条件",>*.*<待分组>*.*<render
+"New branch")>*.*<"新建分支")>*.*<待分组>*.*<render
+Sorry, I can't find that branch>*.*<抱歉，未找到分支>*.*<待分组>*.*<render
+Do you want to create a new branch instead?>*.*<是否创建新分支？>*.*<待分组>*.*<render
+Create new branch>*.*<创建新分支>*.*<待分组>*.*<render
+to quickly create a new branch from anywhere within the app>*.*<可快速创建分支>*.*<待分组>*.*<render
+Choose a branch to merge into>*.*<选择一个分支合并到>*.*<待分组>*.*<render
+Publish your repository to GitHub. Need help?>*.*<将存储库发布到Github。需要帮助？>*.*<待分组>*.*<render
+about remote repositories.>*.*<关于远程存储库。>*.*<待分组>*.*<render
+actionTitle:"Publish",>*.*<actionTitle:"发布",>*.*<待分组>*.*<render
+Welcome to GitHub Desktop>*.*<欢迎使用Github Desktop>*.*<待分组>*.*<render
+New to GitHub?>*.*<第一次使用Github？>*.*<待分组>*.*<render
+Create your free account.>*.*<创建账户>*.*<待分组>*.*<render
+"Sign in to GitHub.com">*.*<"GitHub登录">*.*<待分组>*.*<render
+Sign in to GitHub Enterprise>*.*<Github企业版登录>*.*<待分组>*.*<render
+Skip this step>*.*<跳过>*.*<待分组>*.*<render
+By creating an account, you agree to the>*.*<创建账户，代表您同意>*.*<待分组>*.*<render
+"Terms of Service">*.*<"服务条款">*.*<待分组>*.*<render
+For more information about GitHub's privacy practices, see the>*.*<更多信息，请参阅>*.*<待分组>*.*<render
+GitHub Privacy Statement>*.*<GitHub 隐私声明>*.*<待分组>*.*<render
+GitHub Desktop sends usage metrics to improve the product and inform feature decisions. Read more about what metrics are sent and how we use them>*.*<Github Desktop将发送一些数据用于完善产品。阅读相关数据及如何使用：>*.*<待分组>*.*<render
+GitHub Desktop is a seamless way to contribute to projects on GitHub and GitHub Enterprise. Sign in below to get started with your existing projects.>*.*<>*.*<待分组>*.*<render
